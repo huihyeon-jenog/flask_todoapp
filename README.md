@@ -8,3 +8,5 @@
 * 회원가입
 * 로그인/로그아웃
 * 날짜 별로 저장
+
+![image](https://user-images.githubusercontent.com/58755166/108617419-8065d200-7459-11eb-8ef5-87dce1a98706.png)
